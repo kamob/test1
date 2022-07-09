@@ -1,1 +1,2 @@
-console.log("serving fish and lamb");
+console.log("serving fish");
+console.log("serving lamb");
