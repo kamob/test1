@@ -1,0 +1,23 @@
+
+
+* {
+    outline: 2px solid red;
+}
+
+
+
+.container {
+    background-color: blue;
+    color: white;
+    height: 80px;
+}
+.menu {
+    display: inline;
+}
+.float-right {
+    float: right;
+}
+.menu li {
+    display: inline-block;
+    margin-right: 10px;
+}
