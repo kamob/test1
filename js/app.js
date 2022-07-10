@@ -1,3 +1,10 @@
 function loggedIn() {
-    return true;
-}
+    return true;}
+
+
+function app() {
+    if (loggedIn()) {
+// redirect
+    }
+
+    }
